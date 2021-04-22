@@ -1,5 +1,5 @@
 # Hello 👋 i'm Tincho
-### *a frontend developer starting out and looking for new challenges and experiences*.
+### *I'm a junior/newbie frontend dev... and all i wanna do is learn*.
 
 #### 🤓 What I'm doing now?
 I'm currently working as a freelance developing websites and apps with frameworks and cms (react, bootstrap5, wordpress, etc) as well without them (in html5, css3, javascript, sass and pug) 
