@@ -2,24 +2,23 @@
 ### *a frontend developer starting out and looking for new challenges and experiences*.
 
 #### 🤓 What I'm doing now?
-I'm currently working as a freelance developing websites with frameworks and cms (react, bootstrap5, wordpress, etc) as well without them (in html5, css3, javascript, sass and pug) 
+I'm currently working as a freelance developing websites and apps with frameworks and cms (react, bootstrap5, wordpress, etc) as well without them (in html5, css3, javascript, sass and pug) 
 
 #### 🤖 My technical skills:
 - React
+- Redux, Hooks, Styled-components, React-Router
 - JavaScript
-- Bootstrap5
-- SASS
 - PWA/SPA in Vanilla JS
-- RWD & mailing
-- PUG & html5
+- SASS
+- PUG
+- Bootstrap5
+- Wordpress
 - Git & Github
 - Npm & Webpack
+- RWD
 - Design Systems
 
 #### 😎 What am I learning now:
-- NextJS
-- Vue
-- Svelte
 - Node JS
 - Express
 - MongoDB
