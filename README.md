@@ -2,8 +2,8 @@
 ### *I'm a junior frontend dev*.
 
 #### 🤓 What I'm doing now?
-I'm currently working as a freelance developing with React...
-and other frameworks and cms (Bootstrap5, Wordpress, etc) as well without them (PUG, SASS, JS Vanilla) 
+- I'm currently working as a freelance developing with React...
+- and other frameworks and cms (Bootstrap5, Wordpress, etc) as well without them (PUG, SASS, JS Vanilla) 
 
 #### 🤖 My technical skills:
 - React
