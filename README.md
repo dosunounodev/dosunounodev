@@ -2,23 +2,28 @@
 ### *I'm a junior frontend dev*.
 
 #### 🤓 What I'm doing now?
-I'm currently working as a freelance developing websites and apps with frameworks and cms (react, bootstrap5, wordpress, etc) as well without them (in html5, css3, javascript, sass and pug) 
+I'm currently working as a freelance developing with React...
+and other frameworks and cms (Bootstrap5, Wordpress, etc) as well without them (PUG, SASS, JS Vanilla) 
 
 #### 🤖 My technical skills:
 - React
-- Redux, Hooks, Styled-components, React-Router
+- Hooks
+- Redux
+- Styled-components
+- React-Router
+- Axios
 - JavaScript
-- PWA/SPA in Vanilla JS
 - SASS
 - PUG
 - Bootstrap5
 - Wordpress
 - Git & Github
-- Npm & Webpack
-- RWD
+- Npm
+- Webpack
+- Scrum
 - Design Systems
 
-#### 😎 What am I learning now:
+#### 😎 What's next?:
 - Node JS
 - Express
 - MongoDB
