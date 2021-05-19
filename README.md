@@ -1,5 +1,5 @@
 # Hello 👋 i'm Tincho
-### *I'm a junior frontend dev*.
+### *I'm a frontend dev*.
 
 #### 🤓 What I'm doing now?
 - I'm currently working as a freelance developing with React...
