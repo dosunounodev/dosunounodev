@@ -34,15 +34,15 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 <h3 align="center"🤟 You can find me on:</h3>
 <p align="center">
   <a href="https://github.com/dosunounodev" target="blank">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'/> 
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'/> 
   </a>
   
   <a href="https://www.linkedin.com/in/dosunounodev" target="blank">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'> 
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'> 
   </a>
   
   <a href="https://twitter.com/dosunounodev" target="blank">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' alt='twitter' height='32'> 
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' alt='twitter' height='32'> 
   </a>
 </p>
 
