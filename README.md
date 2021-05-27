@@ -6,20 +6,20 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 
 
 ## 🤖 My technical skills:
-### React :
+### ⚛️ React :
 - React JS 
 - Hooks
 - Redux
 - Styled-components
 - React-Router
 - Axios, Leaflet
-### Web : 
+### 💻 Web : 
 - JavaScript
 - SASS
 - PUG
 - Bootstrap5
 - Wordpress
-### Others :
+### 🕺 Others :
 - Git & Github
 - Npm
 - Webpack
@@ -27,7 +27,7 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Design Systems
 
 
-## What's next? (LEARNING):
+## 🤓 What's next? (LEARNING):
 - Node JS
 - Express
 - MongoDB
