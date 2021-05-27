@@ -1,7 +1,8 @@
-# Hi 👋, I'm Tincho<br></br>👨‍💻 A frontend dev<br></br>🇦🇷 from Argentina
-<br></br>
+# 👋, I'm Tincho // 👨‍💻 A frontend dev // 🇦🇷 from Argentina
+
 ## 🤓 What I'm doing now?
 I'm currently working as a React Frontend dev and also freelance making apps and websites. <br/>I also work with other frameworks, cms and techs (Bootstrap5, Wordpress, PUG, SASS, JS Vanilla...)
+
 <br></br>
 ## 🤖 My technical skills:
 ### ⚛️ React :
@@ -23,6 +24,7 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Webpack
 - Scrum
 - Design Systems
+
 <br></br>
 ## 👨‍🏫 Education :
 - Platzi: Frontend Architecture
@@ -31,11 +33,13 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Platzi: React Frontend School
 ### 📚 Courses: 
 https://platzi.com/p/dosunounodev/
+
 <br></br>
 ## 🤓 What's next? (LEARNING) :
 - Node JS
 - Express
 - MongoDB
+
 <br></br>
 ## 🤟 You can find me on:
   <a href="https://github.com/dosunounodev" target="blank">
@@ -50,11 +54,13 @@ https://platzi.com/p/dosunounodev/
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' alt='twitter' height='32'> 
   </a>
 </p>
+
 <br></br>
 ## 😉 What do I like about web development?
 What I like the most is the possibility of constantly learn and never stop growing.
 I'm constantly learning new tools to improve my skills and be more productive.
 The possibility of working as a team, and being able to learn from my colleagues and at the same time empower them to find new and better solutions together.
+
 <br></br>
 ## 😏 My recipe:
 2️⃣ Creative thinking parts
