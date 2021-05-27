@@ -27,7 +27,16 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Design Systems
 
 
-## 🤓 What's next? (LEARNING):
+## 👨‍🏫 Education :
+- Platzi: Frontend Architecture
+- Platzi: Web Development School
+- Platzi: Javascript School
+- Platzi: React Frontend School
+### 📚 Courses: 
+https://platzi.com/p/dosunounodev/
+
+
+## 🤓 What's next? (LEARNING) :
 - Node JS
 - Express
 - MongoDB
