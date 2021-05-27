@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Tincho</h1>
-<h2 align="center">A frontend dev 👨‍💻 from Argentina 🇦🇷</h3>
+# Hi 👋, I'm Tincho
+### A frontend dev 👨‍💻 from Argentina 🇦🇷
+<br/
 
 ## 🤓 What I'm doing now?
-I'm currently working as a React Frontend dev and also freelance making apps and websites. I also work with other frameworks, cms and techs (Bootstrap5, Wordpress, PUG, SASS, JS Vanilla...)
+I'm currently working as a React Frontend dev and also freelance making apps and websites. <br/>I also work with other frameworks, cms and techs (Bootstrap5, Wordpress, PUG, SASS, JS Vanilla...)
 
 ## 🤖 My technical skills:
 
 ### React :
-- React JS +Hooks +Redux
+- React JS 
+- Hooks
+- Redux
 - Styled-components
 - React-Router
 - Axios, Leaflet
@@ -31,8 +34,7 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Express
 - MongoDB
 
-<h3 align="center"🤟 You can find me on:</h3>
-<p align="center">
+## 🤟 You can find me on:
   <a href="https://github.com/dosunounodev" target="blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'/> 
   </a>
