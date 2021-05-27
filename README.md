@@ -1,4 +1,5 @@
-# Hello 👋 i'm Tincho 👨‍💻 *I'm a Frontend Dev*.
+<h1 align="center">Hi 👋, I'm Tincho</h1>
+<h2 align="center">A frontend dev 👨‍💻 from Argentina 🇦🇷</h3>
 
 ## 🤓 What I'm doing now?
 I'm currently working as a React Frontend dev and also freelance making apps and websites. I also work with other frameworks, cms and techs (Bootstrap5, Wordpress, PUG, SASS, JS Vanilla...)
