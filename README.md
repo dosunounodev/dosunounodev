@@ -1,5 +1,4 @@
-# Hi 👋, I'm Tincho
-### A frontend dev 👨‍💻 from Argentina 🇦🇷
+# Hi 👋, I'm Tincho<br></br>👨‍💻 A frontend dev<br></br>🇦🇷 from Argentina
 <br></br>
 ## 🤓 What I'm doing now?
 I'm currently working as a React Frontend dev and also freelance making apps and websites. <br/>I also work with other frameworks, cms and techs (Bootstrap5, Wordpress, PUG, SASS, JS Vanilla...)
