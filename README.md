@@ -14,8 +14,8 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Axios, Leaflet
 ### 💻 Web : 
 - JavaScript
-- SASS
-- PUG
+- Css & Sass
+- Html & Pug
 - Bootstrap5
 - Wordpress
 ### 🕺 Others :
@@ -24,6 +24,14 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Webpack
 - Scrum
 - Design Systems
+- Linux Terminal
+### 🕺 Soft Skills :
+- Teamwork
+- Fast Learning
+- Problem-Solving
+- Time Management
+- Critical Thinking
+- Adaptability
 
 <br></br>
 ## 👨‍🏫 Education :
@@ -31,6 +39,9 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Platzi: Web Development School
 - Platzi: Javascript School
 - Platzi: React Frontend School
+- AprendeJS.org: Javascript
+- AprendeJS.org: PWA
+- AprendeJS.org: React.js
 ### 📚 Courses: 
 https://platzi.com/p/dosunounodev/
 
