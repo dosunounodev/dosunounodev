@@ -18,7 +18,7 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Html & Pug
 - Bootstrap5
 - Wordpress
-### 🕺 Others :
+### 💡 Others :
 - Git & Github
 - Npm
 - Webpack
