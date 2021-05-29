@@ -1,7 +1,5 @@
-![Header](/githubheader.png)
-
 # 👋, I'm Tincho // 👨‍💻 React Frontend Dev // 🇦🇷 from Argentina
-
+![Header](/githubheader.png)
 ## 👉 What I'm doing now?
 I'm currently working as a React Frontend dev and also freelance making apps and websites. <br/>I also work with other frameworks, cms and techs (Bootstrap5, Wordpress, PUG, SASS, JS Vanilla...)
 
