@@ -66,8 +66,4 @@ The possibility of working as a team, and being able to learn from my colleagues
 
 ## 😏 My recipe:
 
-2️⃣ Creative thinking parts
-
-1️⃣ Constant learning part
-
-1️⃣ Part of Googling everything else 
+2️⃣ Creative thinking parts <br/>1️⃣ Constant learning part <br/>1️⃣ Part of Googling everything else 
