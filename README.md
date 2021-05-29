@@ -26,6 +26,7 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Design Systems
 - Linux Terminal
 ### 🕺 Soft Skills :
+- Intermediate English
 - Teamwork
 - Fast Learning
 - Problem-Solving
