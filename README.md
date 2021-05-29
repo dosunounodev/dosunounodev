@@ -3,7 +3,6 @@
 ## 👉 What I'm doing now?
 I'm currently working as a React Frontend dev and also freelance making apps and websites. <br/>I also work with other frameworks, cms and techs (Bootstrap5, Wordpress, PUG, SASS, JS Vanilla...)
 
-<br></br>
 ## 🤖 My technical skills:
 ### ⚛️ React :
 - React JS 
@@ -34,7 +33,6 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Critical Thinking
 - Adaptability
 
-<br></br>
 ## 👨‍🏫 Education :
 - Platzi: Frontend Architecture
 - Platzi: Web Development School
@@ -46,18 +44,12 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 ### 📚 Courses: 
 https://platzi.com/p/dosunounodev/
 
-<br></br>
 ## 🤓 What's next? (LEARNING) :
 - Node JS
 - Express
 - MongoDB
 
-<br></br>
 ## 🤟 You can find me on:
-  <a href="https://github.com/dosunounodev" target="blank">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='32'/> 
-  </a>
-  
   <a href="https://www.linkedin.com/in/dosunounodev" target="blank">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='32'> 
   </a>
@@ -67,13 +59,11 @@ https://platzi.com/p/dosunounodev/
   </a>
 </p>
 
-<br></br>
 ## 😉 What do I like about web development?
 What I like the most is the possibility of constantly learn and never stop growing.
 I'm constantly learning new tools to improve my skills and be more productive.
 The possibility of working as a team, and being able to learn from my colleagues and at the same time empower them to find new and better solutions together.
 
-<br></br>
 ## 😏 My recipe:
 2️⃣ Creative thinking parts
 1️⃣ Constant learning part
