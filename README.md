@@ -65,6 +65,9 @@ I'm constantly learning new tools to improve my skills and be more productive.
 The possibility of working as a team, and being able to learn from my colleagues and at the same time empower them to find new and better solutions together.
 
 ## 😏 My recipe:
+
 2️⃣ Creative thinking parts
+
 1️⃣ Constant learning part
+
 1️⃣ Part of Googling everything else 
