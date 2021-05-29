@@ -60,8 +60,8 @@ https://platzi.com/p/dosunounodev/
 </p>
 
 ## 😉 What do I like about web development?
-What I like the most is the possibility of constantly learn and never stop growing.
-I'm constantly learning new tools to improve my skills and be more productive.
+What I like the most is the possibility of constantly learn and never stop growing. <br/>
+I'm constantly learning new tools to improve my skills and be more productive. <br/>
 The possibility of working as a team, and being able to learn from my colleagues and at the same time empower them to find new and better solutions together.
 
 ## 😏 My recipe:
