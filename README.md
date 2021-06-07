@@ -10,7 +10,8 @@ I'm currently working as a React Frontend dev and also freelance making apps and
 - Redux
 - Styled-components
 - React-Router
-- Axios, Leaflet, Graphql
+- Apollo Client, Graphql
+- Axios, Leaflet
 ### 💻 Web : 
 - JavaScript
 - Css & Sass
