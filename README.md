@@ -1,7 +1,7 @@
 # 👋, I'm Tincho 👨‍💻 React Frontend Developer
 ![Header](/githubheader.png)
 ## 👉 What I'm doing now?
-I'm currently working as a Software Developer at MercadoLibre using Node, Express and React... <br/>and also freelance making apps and websites. <br/>I also work with other frameworks, cms and techs (Bootstrap5, Wordpress, PUG, SASS, JS Vanilla...)
+I'm currently working as a Software Developer at MercadoLibre using Node, Express and React... 
 
 ## 🤖 My technical skills:
 ### ⚛️ React :
